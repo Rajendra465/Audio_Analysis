@@ -1,0 +1,4 @@
+Step 1. Install All the required Libraries (For PyAudio, Install Wheel sperately)
+Step 2. Run the test.py file to run the Trained Model on Real Time Audio
+Step 3. (Optional) to run on a .wav file run the following command in terminal
+python test.py --file "file_name.wav"
